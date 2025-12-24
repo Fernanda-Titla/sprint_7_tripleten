@@ -1,4 +1,11 @@
+<<<<<<< HEAD
 pandas
 plotly.express
 streamlit
 regit 
+=======
+pandas
+plotly.express
+streamlit
+re
+>>>>>>> b3f8045897ad237a48e13c4c99dbc9fed3b33c87
