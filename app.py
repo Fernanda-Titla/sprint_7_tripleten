@@ -5,8 +5,10 @@ import plotly.express as px
 #aqui se prepara todo para el sitio web
 
 #Leer el archivo CSV
-pokemon = pd.read_csv(r'C:\Users\Fer Titla\Desktop\TripleTen\sprint_7_tripleten\pokemon.csv')
-pokemon.head()#leer DF completo
+#pokemon = pd.read_csv(r'C:\Users\Fer Titla\Desktop\TripleTen\sprint_7_tripleten\pokemon.csv')
+#pokemon.head()#leer DF completo
+pokemon = pd.read_csv('pokemon.csv')
+
 
 #Crear el contenido de la aplicación basada en streamlit
 
